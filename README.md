@@ -1,46 +1,49 @@
-# 👋 Hello there! I'm Dam Derumier
+# 👋 Hey there! I'm Dam Derumier
 
-I'm a **Web Developer in training**, passionate about tech, design, and everything in between. With experience ranging from social work to coding bootcamps, I've found my path in **UX design** and **full-stack development**.
+Junior web dev, full-time learner, and part-time bug whisperer. I’m currently training as a **Full Stack Developer** and diving deep into the magical world of **UX Design** — because beautiful code deserves beautiful interfaces, right?
 
-## 👩‍💻 About Me
+## 🤓 About Me
 
-- 🎓 Currently studying **Web Development** at 3W Academy (Full Stack: HTML, CSS, JS, PHP, SQL, React & Node.js)
-- 📚 Also learning **UX Design** & **IT Support** through Coursera
-- 🧠 Previously studied computer science, human and social sciences
-- 🛠️ Hands-on experience with tools like Git, NetBeans, VS Code, and Figma
-- 🕹️ I love **video games**, especially **strategy and team-based** ones, and I organize **e-sport tournaments**
+- 🎓 Student @ 3W Academy (HTML, CSS, JS, PHP, SQL, React, Node.js)
+- 🧠 Learning UX Design & IT Support on Coursera — because I like both solving bugs *and* making users smile
+- 🎮 Video game geek, especially into strategy & team-based games (yes, I organize e-sport tournaments too)
+- 🗺️ Past lives: social sciences, public service, and digital exploration (aka: trying everything once before committing)
 
-## 🌱 What I’m Learning
+## 🌱 Currently Learning
 
-- Frontend Frameworks like **React**
-- Backend development with **Node.js** and **PHP (Symfony)**
-- **UX Research** and **UI Design**
-- Software debugging and support
+- 🖥️ React — slowly taming the JSX beast
+- ☁️ Node.js — because servers also deserve attention
+- 🎨 UX Research — making users feel smart, not lost
+- 🧰 Debugging — a.k.a. talking to my code like it's a person ("why are you like this?!")
 
-## 👀 I’m Interested In
+## 👀 Interested In
 
-- Building fun and useful apps (like games, utilities, or UX prototypes)
-- Open source collaboration
-- Blending UX/UI design with web development
-- Learning new tech and improving accessibility in software
+- Crafting apps that are actually useful (or just really fun)
+- Collaborating on open source projects
+- UX/UI design that doesn’t make users cry
+- Making tech more accessible and less scary
 
-## 💞️ Let’s Collaborate On
+## 💞️ Looking to Collaborate On
 
-- Frontend or Fullstack projects
-- UX/UI feedback and prototyping
-- Anything creative and user-centered!
+- Anything web (as long as there’s coffee ☕️)
+- UX design feedback loops
+- Projects with a sprinkle of creativity (or chaos)
 
 ## ⚡ Fun Fact
 
-I once built a **joke website** and a **Java Sokoban game** just for fun during my early training. I’m all about playful learning!
+Built a **joke website** and a **Sokoban game in Java** just to see if I could. Spoiler: I could. Bonus: it still works!
 
-## 📫 How to Reach Me
+## 😄 Pronouns
 
-- ✉️ [derumier.dam@gmail.com](mailto:derumier.dam@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/damderumier/)
-- 💼 [GitHub Portfolio](https://github.com/damderumier)
-- 🎨 [Figma Projects](https://www.figma.com/files/team/1288553264654915984/project/109151399/Team-project?fuid=1253068665250177748)
+She/Her — but honestly, as long as you're respectful, I'm happy.
+
+## 📫 Contact Me
+
+- 📧 [derumier.dam@gmail.com](mailto:derumier.dam@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/damderumier/)
+- 🧪 [GitHub](https://github.com/damderumier)
+- 🎨 [Figma Portfolio](https://www.figma.com/files/team/1288553264654915984/project/109151399/Team-project?fuid=1253068665250177748)
 
 ---
 
-> “Curious. Determined. Always learning.”
+> “Curious. Determined. Once made a div cry. Still proud.”
